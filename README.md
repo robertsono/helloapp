@@ -1,2 +1,2 @@
-# helloapp
-A hello app for elementary os
+# Hello app
+A hello world app for elementary os
